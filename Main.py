@@ -37,6 +37,7 @@ class CourseForm(QMainWindow):
         mydb.execute(f"INSERT INTO courses VALUES('{course[0]}','{course[1]}')")
         db.commit()
         self.close() 
+        my_app.show_courses()
         self.clear_fields() 
 
     def fill_course(self):
