@@ -6,7 +6,7 @@ from PyQt5 import uic, QtCore
 
 
 #cursor for manipulating database
-db = mysql.connector.connect(host = 'localhost', user = 'root', password = '*P@ssw0rd', database = 'sisv2')
+db = mysql.connector.connect(host = 'localhost', user = 'root', password = '123abc', database = 'sisv2')
 mydb = db.cursor()
 
 
