@@ -9,19 +9,19 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>315</width>
+    <width>350</width>
     <height>170</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
-    <width>315</width>
+    <width>350</width>
     <height>170</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>315</width>
+    <width>350</width>
     <height>170</height>
    </size>
   </property>
@@ -32,7 +32,7 @@
    <widget class="QPushButton" name="student_done">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>250</x>
       <y>120</y>
       <width>81</width>
       <height>41</height>
@@ -42,12 +42,12 @@
      <string>Done</string>
     </property>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
       <y>80</y>
-      <width>191</width>
+      <width>219</width>
       <height>80</height>
      </rect>
     </property>
@@ -123,12 +123,12 @@
      </item>
     </layout>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
       <y>20</y>
-      <width>290</width>
+      <width>325</width>
       <height>48</height>
      </rect>
     </property>

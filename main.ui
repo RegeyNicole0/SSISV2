@@ -37,13 +37,13 @@
            <widget class="QLineEdit" name="student_searchbar">
             <property name="minimumSize">
              <size>
-              <width>113</width>
+              <width>191</width>
               <height>20</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
-              <width>113</width>
+              <width>191</width>
               <height>20</height>
              </size>
             </property>
@@ -75,13 +75,13 @@
            <widget class="QPushButton" name="student_add">
             <property name="minimumSize">
              <size>
-              <width>75</width>
+              <width>111</width>
               <height>23</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
-              <width>75</width>
+              <width>111</width>
               <height>23</height>
              </size>
             </property>
@@ -94,13 +94,13 @@
            <widget class="QPushButton" name="student_edit">
             <property name="minimumSize">
              <size>
-              <width>75</width>
+              <width>111</width>
               <height>23</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
-              <width>75</width>
+              <width>111</width>
               <height>23</height>
              </size>
             </property>
@@ -212,13 +212,13 @@
            <widget class="QLineEdit" name="course_searchbar">
             <property name="minimumSize">
              <size>
-              <width>113</width>
+              <width>161</width>
               <height>20</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
-              <width>113</width>
+              <width>161</width>
               <height>20</height>
              </size>
             </property>
@@ -250,13 +250,13 @@
            <widget class="QPushButton" name="course_add">
             <property name="minimumSize">
              <size>
-              <width>75</width>
+              <width>101</width>
               <height>23</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
-              <width>75</width>
+              <width>101</width>
               <height>23</height>
              </size>
             </property>
