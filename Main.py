@@ -347,7 +347,7 @@ class MainWindow(QMainWindow):
 if __name__ == '__main__': 
     app = QApplication(sys.argv) 
     my_app = MainWindow() 
-    my_app.show() 
+    my_app.showMaximized() 
     print(sys.argv) 
 
     try: 
